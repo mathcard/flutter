@@ -1,0 +1,7 @@
+Arquivo: https://flutter.dev/docs/development/packages-and-plugins/androidx-compatibility
+
+No build.gradle APP
+Linha 69, 70
+
+No build.gradle ANDROID
+Linha 12

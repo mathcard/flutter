@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "194068916729",
+    "firebase_url": "https://lojavirtual-3f2f2.firebaseio.com",
+    "project_id": "lojavirtual-3f2f2",
+    "storage_bucket": "lojavirtual-3f2f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194068916729:android:4cf2ab28de3f01ad0ab528",
+        "android_client_info": {
+          "package_name": "br.com.mathcard.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194068916729-hicn4mphb9ckl24rasnjc2eb4vhncnk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfHTr23AdxhiunOu2p5rEyExSuoDp_RK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194068916729-hicn4mphb9ckl24rasnjc2eb4vhncnk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

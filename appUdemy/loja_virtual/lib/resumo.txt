@@ -1,0 +1,12 @@
+Arquivo Main chama a HomeScreen, é exibido a homepage chamada HomeTab, e possui as chamadas das outras telas.
+A tela na lateral e chamada pelo widget CustomDrawer, em conjunto DrawerTile é realizada a chamada das outras telas.
+Na aba produtos é chamado o arquio produtos_tile.dart, consulta todas as categorias do Banco de Dados utilizando o arquivo Category Tile .
+
+Os arquivos na pasta datas trazem os dados do banco de dados.
+
+
+
+QuerySnapshot - Fotografia de uma coleção.
+DocumentSnapshot - Fotografia de apenas um documento.
+
+InkWell e GesturyDetector permite tocar, porém InkWell possui um efeito diferenciado.

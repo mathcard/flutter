@@ -1,0 +1,22 @@
+Informe a senha da área de armazenamento de chaves:
+
+Nome do alias: androiddebugkey
+Data de criação: 08/09/2019
+Tipo de entrada: PrivateKeyEntry
+Comprimento da cadeia de certificados: 1
+Certificado[1]:
+Proprietário: C=US, O=Android, CN=Android Debug
+Emissor: C=US, O=Android, CN=Android Debug
+Número de série: 1
+Válido de Sun Sep 08 22:48:16 BRT 2019 até Tue Aug 31 22:48:16 BRT 2049
+Fingerprints do certificado:
+         MD5:  D3:09:FB:14:99:68:E8:6B:B8:63:75:21:5F:92:87:15
+         SHA1: A6:98:52:8A:99:8E:F9:4E:68:4F:95:27:BD:9C:81:EA:09:0C:19:83
+         SHA256: C2:5A:2D:F8:73:A3:C0:DB:3C:0E:D3:9C:D1:7F:22:5C:97:E5:09:6D:53:D3:E1:95:B3:2E:D4:7F:69:99:75:3D
+Nome do algoritmo de assinatura: SHA1withRSA
+Algoritmo de Chave Pública do Assunto: Chave RSA de 2048 bits
+Versão: 1
+
+Warning:
+O armazenamento de chaves JKS usa um formato proprietário. É recomendada a migração para PKCS12, que é um
+formato de padrão industrial que usa "keytool -importkeystore -srckeystore C:\Users\FAEG-PC\.android\debug.keystore -destkeystore C:\Users\FAEG-PC\.android\debug.keystore -deststoretype pkcs12".

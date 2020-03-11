@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "853014798102",
+    "firebase_url": "https://believe-d49e2.firebaseio.com",
+    "project_id": "believe-d49e2",
+    "storage_bucket": "believe-d49e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853014798102:android:5df0f3cc0e5601a5f63a37",
+        "android_client_info": {
+          "package_name": "com.example.firebase_demo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853014798102-6ku58fu9ft4fl15p9oiblha1vo5vboqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_demo2",
+            "certificate_hash": "a698528a998ef94e684f9527bd9c81ea090c1983"
+          }
+        },
+        {
+          "client_id": "853014798102-fd9t83arisj6k4nefamej6rm88ea3ljs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDigYZ5ko2Y4aLEeoiVddd6ByJ9nsmie-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853014798102-fd9t83arisj6k4nefamej6rm88ea3ljs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

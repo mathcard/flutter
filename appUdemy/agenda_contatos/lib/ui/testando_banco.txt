@@ -1,0 +1,21 @@
+/*
+// TESTANDO BANCO
+  @override
+  void initState(){
+    super.initState();
+  
+  // INSERINDO 
+    Contact c = Contact();
+    c.name = "Deia Carmo";
+    c.email = "mathcard@gmail.com";
+    c.phone = "62992661418";
+    c.img = "imgtest";
+    helper.saveContact(c);
+
+    // CONSULTANDO
+    helper.getAllContacts().then((list){      
+      print(list);
+    }); 
+  }
+  */
+  
